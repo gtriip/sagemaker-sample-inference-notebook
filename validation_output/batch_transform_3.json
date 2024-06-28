@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "result": {
+    "mrz_type": "TD3",
+    "valid_score": 100,
+    "raw_text": "PVNORNORMANN<<KARI<<<<<<<<<<<<<<<<<<<<<<<<<<\n00000000<0N0R7505319F15100364197505311234588",
+    "type": "PV",
+    "country": "Norway",
+    "number": "00000000",
+    "date_of_birth": "1975-05-31",
+    "expired": true,
+    "expiration_date": "2015-10-03",
+    "nationality": "Norway",
+    "sex": "Female",
+    "first_name": "Kari",
+    "last_name": "Normann",
+    "personal_number": "41975053112345",
+    "check_number": "0",
+    "check_date_of_birth": "9",
+    "check_expiration_date": "6",
+    "check_composite": "8",
+    "check_personal_number": "8",
+    "valid_number": true,
+    "valid_date_of_birth": true,
+    "valid_expiration_date": true,
+    "valid_composite": true,
+    "valid_personal_number": true,
+    "document_type": "passport"
+  },
+  "rotate_angle": 0
+}
